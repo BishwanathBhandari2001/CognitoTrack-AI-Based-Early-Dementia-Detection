@@ -1,0 +1,178 @@
+<!-- <!DOCTYPE html>
+<html>
+<head>
+<title>🧠 CognitoTrack – Dementia Detection</title>
+
+<style>
+html,body{
+  margin:0;height:100%;overflow:hidden;
+  font-family:Arial;
+  background:url("{{ url_for('static', filename='bg.jpg') }}") no-repeat center/cover fixed;
+  color:white;text-align:center;
+}
+.card{
+  position:absolute;top:50%;left:50%;
+  transform:translate(-50%,-50%);
+  background:rgba(0,0,0,.85);
+  padding:40px;border-radius:15px;
+}
+input,select{
+  padding:10px;margin:8px;border-radius:6px;border:none;width:240px;
+}
+button{
+  padding:12px 25px;font-size:18px;border-radius:8px;
+  background:#00bcd4;color:white;border:none;margin-top:10px;
+}
+button:disabled{background:gray}
+</style>
+</head>
+<body>
+
+<div class="card">
+<h1>🧠 CognitoTrack</h1>
+<h3>Dementia Detection from Speech</h3>
+
+<form id="mainForm" method="post" enctype="multipart/form-data">
+
+<input id="name" name="name" placeholder="Patient Name" required><br>
+<input id="age" name="age" type="number" placeholder="Age" required><br>
+
+<select id="sex" name="sex" required>
+<option value="">Select Gender</option>
+<option>Male</option>
+<option>Female</option>
+</select><br>
+
+<select id="blood" name="blood" required>
+<option value="">Blood Group</option>
+<option>A+</option><option>B+</option><option>O+</option><option>AB+</option><option>O-</option><option>AB-</option><option>A-</option><option>B-</option>
+</select><br><br>
+
+<input type="file" name="audio" id="audioInput" accept=".wav" required><br>
+
+<button id="analyzeBtn" type="submit" disabled>🔍 Analyze Speech</button>
+</form>
+</div>
+
+<script>
+const form = document.getElementById("mainForm");
+const analyzeBtn = document.getElementById("analyzeBtn");
+
+function checkForm(){
+  if(form.checkValidity() && audioInput.files.length > 0){
+    analyzeBtn.disabled = false;
+  } else {
+    analyzeBtn.disabled = true;
+  }
+}
+
+// Listen to ALL input events
+form.addEventListener("input", checkForm);
+audioInput.addEventListener("change", checkForm);
+</script>
+
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>🧠 CognitoTrack – Dementia Detection</title>
+
+<style>
+html,body{
+  margin:0;height:100%;overflow:hidden;
+  font-family:Arial;
+  background:url("{{ url_for('static', filename='bg.jpg') }}") no-repeat center/cover fixed;
+  color:white;text-align:center;
+}
+.card{
+  position:absolute;top:50%;left:50%;
+  transform:translate(-50%,-50%);
+  background:rgba(0,0,0,.85);
+  padding:40px;border-radius:15px;
+}
+input,select{
+  padding:10px;margin:8px;border-radius:6px;border:none;width:240px;
+}
+
+/* ✨ Button effects added */
+button{
+  padding:12px 25px;font-size:18px;border-radius:8px;
+  background:#00bcd4;color:white;border:none;margin-top:10px;
+  cursor:pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+}
+button:hover{
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+  background:#00a5bb;
+}
+button:active{
+  transform: translateY(2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+}
+button:disabled{
+  background:gray;
+  box-shadow:none;
+  transform:none;
+  cursor:not-allowed;
+}
+</style>
+</head>
+<body>
+
+<div class="card">
+<h1>🧠 CognitoTrack</h1>
+<h3>Dementia Detection from Speech</h3>
+
+<form id="mainForm" method="post" enctype="multipart/form-data">
+
+<input id="name" name="name" placeholder="Patient Name" required><br>
+<input id="age" name="age" type="number" placeholder="Age" required><br>
+
+<select id="sex" name="sex" required>
+<option value="">Select Gender</option>
+<option>Male</option>
+<option>Female</option>
+</select><br>
+
+<select id="blood" name="blood" required>
+<option value="">Blood Group</option>
+<option>A+</option><option>B+</option><option>O+</option><option>AB+</option>
+<option>O-</option><option>AB-</option><option>A-</option><option>B-</option>
+</select><br><br>
+
+<input type="file" name="audio" id="audioInput" accept=".wav" required><br>
+
+<button id="analyzeBtn" type="submit" disabled onclick="showLoading()">🔍 Analyze Speech</button>
+<p id="loading" style="display:none;margin-top:10px;">⏳ Analyzing speech... Please wait</p>
+
+</form>
+</div>
+
+<script>
+const form = document.getElementById("mainForm");
+const analyzeBtn = document.getElementById("analyzeBtn");
+
+function checkForm(){
+  if(form.checkValidity() && audioInput.files.length > 0){
+    analyzeBtn.disabled = false;
+  } else {
+    analyzeBtn.disabled = true;
+  }
+}
+
+form.addEventListener("input", checkForm);
+audioInput.addEventListener("change", checkForm);
+
+/* ✨ Loading feedback */
+function showLoading(){
+  document.getElementById("loading").style.display="block";
+  analyzeBtn.innerText="Analyzing...";
+}
+</script>
+
+</body>
+</html>
