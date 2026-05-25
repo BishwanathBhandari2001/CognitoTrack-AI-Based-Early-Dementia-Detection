@@ -1,0 +1,456 @@
+file_path,label,speaker
+D:\cognitoTrack_Speech\data\control\Al Pacino\AlPacino_1.wav,0,Al Pacino
+D:\cognitoTrack_Speech\data\control\Al Pacino\AlPacino_2.wav,0,Al Pacino
+D:\cognitoTrack_Speech\data\control\Al Pacino\AlPacino_3.wav,0,Al Pacino
+D:\cognitoTrack_Speech\data\control\Alan Arkin\AlanArkin_1.wav,0,Alan Arkin
+D:\cognitoTrack_Speech\data\control\Alan Arkin\AlanArkin_3.wav,0,Alan Arkin
+D:\cognitoTrack_Speech\data\control\Angela Lansbury\Angela Lansbury_1.wav,0,Angela Lansbury
+D:\cognitoTrack_Speech\data\control\Angela Lansbury\Angela Lansbury_2.wav,0,Angela Lansbury
+D:\cognitoTrack_Speech\data\control\Angela Lansbury\Angela Lansbury_3.wav,0,Angela Lansbury
+D:\cognitoTrack_Speech\data\control\Angelo Badalamenti\AngeloBadalamenti_1.wav,0,Angelo Badalamenti
+D:\cognitoTrack_Speech\data\control\Angelo Badalamenti\AngeloBadalamenti_2.wav,0,Angelo Badalamenti
+D:\cognitoTrack_Speech\data\control\Angelo Badalamenti\AngeloBadalamenti_3.wav,0,Angelo Badalamenti
+D:\cognitoTrack_Speech\data\control\Anthony Hopkins\AnthonyHopkins_1.wav,0,Anthony Hopkins
+D:\cognitoTrack_Speech\data\control\Anthony Hopkins\AnthonyHopkins_2.wav,0,Anthony Hopkins
+D:\cognitoTrack_Speech\data\control\Anthony Hopkins\AnthonyHopkins_3.wav,0,Anthony Hopkins
+D:\cognitoTrack_Speech\data\control\Barbra Streisand\BarbraStreisand_1.wav,0,Barbra Streisand
+D:\cognitoTrack_Speech\data\control\Barbra Streisand\BarbraStreisand_2.wav,0,Barbra Streisand
+D:\cognitoTrack_Speech\data\control\Barbra Streisand\BarbraStreisand_3.wav,0,Barbra Streisand
+D:\cognitoTrack_Speech\data\control\Barry Levinson\BarryLevinson_1.wav,0,Barry Levinson
+D:\cognitoTrack_Speech\data\control\Barry Levinson\BarryLevinson_2.wav,0,Barry Levinson
+D:\cognitoTrack_Speech\data\control\Barry Levinson\BarryLevinson_3.wav,0,Barry Levinson
+D:\cognitoTrack_Speech\data\control\Bernie Sanders\BernieSanders_3.wav,0,Bernie Sanders
+D:\cognitoTrack_Speech\data\control\Betty White\Betty White_1.wav,0,Betty White
+D:\cognitoTrack_Speech\data\control\Betty White\Betty White_2.wav,0,Betty White
+D:\cognitoTrack_Speech\data\control\Betty White\Betty White_3.wav,0,Betty White
+D:\cognitoTrack_Speech\data\control\Bill Cosby\BillCosby_1.wav,0,Bill Cosby
+D:\cognitoTrack_Speech\data\control\Bill Cosby\BillCosby_3.wav,0,Bill Cosby
+D:\cognitoTrack_Speech\data\control\Bill Wyman\BillWyman_1.wav,0,Bill Wyman
+D:\cognitoTrack_Speech\data\control\Bill Wyman\BillWyman_2.wav,0,Bill Wyman
+D:\cognitoTrack_Speech\data\control\Bill Wyman\BillWyman_3.wav,0,Bill Wyman
+D:\cognitoTrack_Speech\data\control\Bob Barker\bobbarker_2.wav,0,Bob Barker
+D:\cognitoTrack_Speech\data\control\Bob Barker\bobbarker_3.wav,0,Bob Barker
+D:\cognitoTrack_Speech\data\control\Bob Dole\BobDole_1.wav,0,Bob Dole
+D:\cognitoTrack_Speech\data\control\Bob Dole\BobDole_2.wav,0,Bob Dole
+D:\cognitoTrack_Speech\data\control\Bob Dole\BobDole_3.wav,0,Bob Dole
+D:\cognitoTrack_Speech\data\control\Bob Dylan\BobDylan_1.wav,0,Bob Dylan
+D:\cognitoTrack_Speech\data\control\Bob Dylan\BobDylan_2.wav,0,Bob Dylan
+D:\cognitoTrack_Speech\data\control\Bob Dylan\BobDylan_3.wav,0,Bob Dylan
+D:\cognitoTrack_Speech\data\control\Bob Newhart\BobNewhart_2.wav,0,Bob Newhart
+D:\cognitoTrack_Speech\data\control\Bob Newhart\BobNewhart_3.wav,0,Bob Newhart
+D:\cognitoTrack_Speech\data\control\Brian De Palma\BrianDePalma_1.wav,0,Brian De Palma
+D:\cognitoTrack_Speech\data\control\Brian De Palma\BrianDePalma_2.wav,0,Brian De Palma
+D:\cognitoTrack_Speech\data\control\Brian De Palma\BrianDePalma_3.wav,0,Brian De Palma
+D:\cognitoTrack_Speech\data\control\Buddy Guy\BuddyGuy_2.wav,0,Buddy Guy
+D:\cognitoTrack_Speech\data\control\Buddy Guy\BuddyGuy_3.wav,0,Buddy Guy
+D:\cognitoTrack_Speech\data\control\Burt Bacharach\Burt Bacharach_1.wav,0,Burt Bacharach
+D:\cognitoTrack_Speech\data\control\Burt Bacharach\Burt Bacharach_2.wav,0,Burt Bacharach
+D:\cognitoTrack_Speech\data\control\Burt Bacharach\Burt Bacharach_3.wav,0,Burt Bacharach
+D:\cognitoTrack_Speech\data\control\Calypso Rose\CalypsoRose_3.wav,0,Calypso Rose
+D:\cognitoTrack_Speech\data\control\Calypso Rose\CalypsoRose__1.wav,0,Calypso Rose
+D:\cognitoTrack_Speech\data\control\Charles Aznavour\CharlesAznavour_1.wav,0,Charles Aznavour
+D:\cognitoTrack_Speech\data\control\Charles Aznavour\CharlesAznavour_2.wav,0,Charles Aznavour
+D:\cognitoTrack_Speech\data\control\Charles Aznavour\CharlesAznavour_3.wav,0,Charles Aznavour
+D:\cognitoTrack_Speech\data\control\Charlie Watts\CharlieWatts_1.wav,0,Charlie Watts
+D:\cognitoTrack_Speech\data\control\Charlie Watts\CharlieWatts_3.wav,0,Charlie Watts
+D:\cognitoTrack_Speech\data\control\Christopher Plummer\christopher plummer_1.wav,0,Christopher Plummer
+D:\cognitoTrack_Speech\data\control\Christopher Plummer\christopher plummer_2.wav,0,Christopher Plummer
+D:\cognitoTrack_Speech\data\control\Christopher Plummer\christopher plummer_3.wav,0,Christopher Plummer
+D:\cognitoTrack_Speech\data\control\Chuck norris\Chuck norris_1.wav,0,Chuck norris
+D:\cognitoTrack_Speech\data\control\Chuck norris\Chuck norris_2.wav,0,Chuck norris
+D:\cognitoTrack_Speech\data\control\Chuck norris\Chuck norris_3.wav,0,Chuck norris
+D:\cognitoTrack_Speech\data\control\Cliff Richard\CliffRichard_1.wav,0,Cliff Richard
+D:\cognitoTrack_Speech\data\control\Cliff Richard\CliffRichard_2.wav,0,Cliff Richard
+D:\cognitoTrack_Speech\data\control\Cliff Richard\CliffRichard_3.wav,0,Cliff Richard
+D:\cognitoTrack_Speech\data\control\Clint Eastwood\Clint Eastwood_1.wav,0,Clint Eastwood
+D:\cognitoTrack_Speech\data\control\Clint Eastwood\Clint Eastwood_2.wav,0,Clint Eastwood
+D:\cognitoTrack_Speech\data\control\Clint Eastwood\Clint Eastwood_3.wav,0,Clint Eastwood
+D:\cognitoTrack_Speech\data\control\David Allan Coe\DavidAllanCoe_1.wav,0,David Allan Coe
+D:\cognitoTrack_Speech\data\control\David Allan Coe\DavidAllanCoe_2.wav,0,David Allan Coe
+D:\cognitoTrack_Speech\data\control\David Allan Coe\DavidAllanCoe_3.wav,0,David Allan Coe
+D:\cognitoTrack_Speech\data\control\David Attenboroug\David Attenboroug_3.wav,0,David Attenboroug
+D:\cognitoTrack_Speech\data\control\David Cronenberg\DavidCronenberg_1.wav,0,David Cronenberg
+D:\cognitoTrack_Speech\data\control\David Cronenberg\DavidCronenberg_2.wav,0,David Cronenberg
+D:\cognitoTrack_Speech\data\control\David Cronenberg\DavidCronenberg_3.wav,0,David Cronenberg
+D:\cognitoTrack_Speech\data\control\David McCallum\DavidMcCallum_1.wav,0,David McCallum
+D:\cognitoTrack_Speech\data\control\David McCallum\DavidMcCallum_3.wav,0,David McCallum
+D:\cognitoTrack_Speech\data\control\David Soul\DavidSoul_1.wav,0,David Soul
+D:\cognitoTrack_Speech\data\control\David Soul\DavidSoul_2.wav,0,David Soul
+D:\cognitoTrack_Speech\data\control\David Soul\DavidSoul_3.wav,0,David Soul
+D:\cognitoTrack_Speech\data\control\Derek Jacobi\DerekJacobi_1.wav,0,Derek Jacobi
+D:\cognitoTrack_Speech\data\control\Derek Jacobi\DerekJacobi_3.wav,0,Derek Jacobi
+D:\cognitoTrack_Speech\data\control\Dick Cavett\DickCavett_1.wav,0,Dick Cavett
+D:\cognitoTrack_Speech\data\control\Dick Cavett\DickCavett_3.wav,0,Dick Cavett
+D:\cognitoTrack_Speech\data\control\Dick van Dyke\dick van dyke_1.wav,0,Dick van Dyke
+D:\cognitoTrack_Speech\data\control\Dick van Dyke\dick van dyke_3.wav,0,Dick van Dyke
+D:\cognitoTrack_Speech\data\control\Dick van Patten\DickVanPatten_1.wav,0,Dick van Patten
+D:\cognitoTrack_Speech\data\control\Dick van Patten\DickVanPatten_3.wav,0,Dick van Patten
+D:\cognitoTrack_Speech\data\control\Dionne Warwick\DionneWarwick_1.wav,0,Dionne Warwick
+D:\cognitoTrack_Speech\data\control\Dionne Warwick\DionneWarwick_3.wav,0,Dionne Warwick
+D:\cognitoTrack_Speech\data\control\Dominic Chianese\DominicChianese_3.wav,0,Dominic Chianese
+D:\cognitoTrack_Speech\data\control\Donald Sutherland\DonaldSutherland_1.wav,0,Donald Sutherland
+D:\cognitoTrack_Speech\data\control\Donald Sutherland\DonaldSutherland_2.wav,0,Donald Sutherland
+D:\cognitoTrack_Speech\data\control\Donald Sutherland\DonaldSutherland_3.wav,0,Donald Sutherland
+D:\cognitoTrack_Speech\data\control\Dustin Hoffman\DustinHoffman_1.wav,0,Dustin Hoffman
+D:\cognitoTrack_Speech\data\control\Dustin Hoffman\DustinHoffman_2.wav,0,Dustin Hoffman
+D:\cognitoTrack_Speech\data\control\Dustin Hoffman\DustinHoffman_3.wav,0,Dustin Hoffman
+D:\cognitoTrack_Speech\data\control\Francis Ford Coppola\FrancisFordCoppola_2.wav,0,Francis Ford Coppola
+D:\cognitoTrack_Speech\data\control\Francis Ford Coppola\FrancisFordCoppola_3.wav,0,Francis Ford Coppola
+D:\cognitoTrack_Speech\data\control\Frank Vincent\FrankVincent_2.wav,0,Frank Vincent
+D:\cognitoTrack_Speech\data\control\Frank Vincent\FrankVincent_3.wav,0,Frank Vincent
+D:\cognitoTrack_Speech\data\control\Gene Hackman\GeneHackman_1.wav,0,Gene Hackman
+D:\cognitoTrack_Speech\data\control\Gene Hackman\GeneHackman_2.wav,0,Gene Hackman
+D:\cognitoTrack_Speech\data\control\Gene Hackman\GeneHackman_3.wav,0,Gene Hackman
+D:\cognitoTrack_Speech\data\control\George A Romero\GeorgeARomero_1.wav,0,George A Romero
+D:\cognitoTrack_Speech\data\control\George A Romero\GeorgeARomero_2.wav,0,George A Romero
+D:\cognitoTrack_Speech\data\control\George A Romero\GeorgeARomero_3.wav,0,George A Romero
+D:\cognitoTrack_Speech\data\control\George Clinton\GeorgeClinton_1.wav,0,George Clinton
+D:\cognitoTrack_Speech\data\control\George Clinton\GeorgeClinton_2.wav,0,George Clinton
+D:\cognitoTrack_Speech\data\control\George Clinton\GeorgeClinton_3.wav,0,George Clinton
+D:\cognitoTrack_Speech\data\control\George H W Bush\GeorgeHWBush_2.wav,0,George H W Bush
+D:\cognitoTrack_Speech\data\control\George H W Bush\GeorgeHWBush_3.wav,0,George H W Bush
+D:\cognitoTrack_Speech\data\control\Gilberto Gil\GilbertoGil_1.wav,0,Gilberto Gil
+D:\cognitoTrack_Speech\data\control\Gilberto Gil\GilbertoGil_2.wav,0,Gilberto Gil
+D:\cognitoTrack_Speech\data\control\Gilberto Gil\GilbertoGil_3.wav,0,Gilberto Gil
+D:\cognitoTrack_Speech\data\control\Hank Aaron\HankAaron_1.wav,0,Hank Aaron
+D:\cognitoTrack_Speech\data\control\Hank Aaron\HankAaron_2.wav,0,Hank Aaron
+D:\cognitoTrack_Speech\data\control\Hank Aaron\HankAaron_3.wav,0,Hank Aaron
+D:\cognitoTrack_Speech\data\control\Harrion ford\Harrion ford_1.wav,0,Harrion ford
+D:\cognitoTrack_Speech\data\control\Harrion ford\Harrion ford_2.wav,0,Harrion ford
+D:\cognitoTrack_Speech\data\control\Harrion ford\Harrion ford_3.wav,0,Harrion ford
+D:\cognitoTrack_Speech\data\control\Harry Belafonte\HarryBelafonte_1.wav,0,Harry Belafonte
+D:\cognitoTrack_Speech\data\control\Harry Belafonte\HarryBelafonte_2.wav,0,Harry Belafonte
+D:\cognitoTrack_Speech\data\control\Harry Belafonte\HarryBelafonte_3.wav,0,Harry Belafonte
+D:\cognitoTrack_Speech\data\control\Harvey Keitel\HarveyKeitel_1.wav,0,Harvey Keitel
+D:\cognitoTrack_Speech\data\control\Harvey Keitel\HarveyKeitel_2.wav,0,Harvey Keitel
+D:\cognitoTrack_Speech\data\control\Harvey Keitel\HarveyKeitel_3.wav,0,Harvey Keitel
+D:\cognitoTrack_Speech\data\control\Ian McKellen\IanMcKellen_1.wav,0,Ian McKellen
+D:\cognitoTrack_Speech\data\control\Ian McKellen\IanMcKellen_2.wav,0,Ian McKellen
+D:\cognitoTrack_Speech\data\control\Ian McKellen\IanMcKellen_3.wav,0,Ian McKellen
+D:\cognitoTrack_Speech\data\control\James Brolin\JamesBrolin_1.wav,0,James Brolin
+D:\cognitoTrack_Speech\data\control\James Brolin\JamesBrolin_2.wav,0,James Brolin
+D:\cognitoTrack_Speech\data\control\James Brolin\JamesBrolin_3.wav,0,James Brolin
+D:\cognitoTrack_Speech\data\control\James Caan\JamesCaan_1.wav,0,James Caan
+D:\cognitoTrack_Speech\data\control\James Caan\JamesCaan_2.wav,0,James Caan
+D:\cognitoTrack_Speech\data\control\James Caan\JamesCaan_3.wav,0,James Caan
+D:\cognitoTrack_Speech\data\control\James Cromwell\JamesCromwell_3.wav,0,James Cromwell
+D:\cognitoTrack_Speech\data\control\James Earl Jones\james earl jones_1.wav,0,James Earl Jones
+D:\cognitoTrack_Speech\data\control\James Earl Jones\james earl jones_2.wav,0,James Earl Jones
+D:\cognitoTrack_Speech\data\control\Jane Fonda\Jane Fonda_1.wav,0,Jane Fonda
+D:\cognitoTrack_Speech\data\control\Jane Fonda\JaneFonda_3.wav,0,Jane Fonda
+D:\cognitoTrack_Speech\data\control\Jeanne Moreau\JeanneMoreau_1.wav,0,Jeanne Moreau
+D:\cognitoTrack_Speech\data\control\Jeanne Moreau\JeanneMoreau_3.wav,0,Jeanne Moreau
+D:\cognitoTrack_Speech\data\control\Jerry Bruckheimer\JerryBruckheimer_2.wav,0,Jerry Bruckheimer
+D:\cognitoTrack_Speech\data\control\Jerry Bruckheimer\JerryBruckheimer_3.wav,0,Jerry Bruckheimer
+D:\cognitoTrack_Speech\data\control\Jerry Lewis\JerryLewis1.wav,0,Jerry Lewis
+D:\cognitoTrack_Speech\data\control\Jerry Lewis\JerryLewis2.wav,0,Jerry Lewis
+D:\cognitoTrack_Speech\data\control\Jerry Lewis\JerryLewis3.wav,0,Jerry Lewis
+D:\cognitoTrack_Speech\data\control\Jerry Stiller\JerryStiller_2.wav,0,Jerry Stiller
+D:\cognitoTrack_Speech\data\control\Jerry Stiller\JerryStiller_3.wav,0,Jerry Stiller
+D:\cognitoTrack_Speech\data\control\Jimmy Carter\Jimmy carter_2.wav,0,Jimmy Carter
+D:\cognitoTrack_Speech\data\control\Jimmy Carter\Jimmy carter_3.wav,0,Jimmy Carter
+D:\cognitoTrack_Speech\data\control\Joan Collins\JoanCollins_1.wav,0,Joan Collins
+D:\cognitoTrack_Speech\data\control\Joan Collins\JoanCollins_2.wav,0,Joan Collins
+D:\cognitoTrack_Speech\data\control\Joan Collins\JoanCollins_3.wav,0,Joan Collins
+D:\cognitoTrack_Speech\data\control\Joe Biden\JoeBiden_1.wav,0,Joe Biden
+D:\cognitoTrack_Speech\data\control\Joe Biden\JoeBiden_3.wav,0,Joe Biden
+D:\cognitoTrack_Speech\data\control\Joe Pesci\JoePesci_1.wav,0,Joe Pesci
+D:\cognitoTrack_Speech\data\control\Joe Pesci\JoePesci_2.wav,0,Joe Pesci
+D:\cognitoTrack_Speech\data\control\Joe Pesci\JoePesci_3.wav,0,Joe Pesci
+D:\cognitoTrack_Speech\data\control\John Cleese\JohnCleese_1.wav,0,John Cleese
+D:\cognitoTrack_Speech\data\control\John Cleese\JohnCleese_3.wav,0,John Cleese
+D:\cognitoTrack_Speech\data\control\John Williams\JohnWilliams_1.wav,0,John Williams
+D:\cognitoTrack_Speech\data\control\John Williams\JohnWilliams_2.wav,0,John Williams
+D:\cognitoTrack_Speech\data\control\John Williams\JohnWilliams_3.wav,0,John Williams
+D:\cognitoTrack_Speech\data\control\Johnny Mathis\Johnny Mathis_2.wav,0,Johnny Mathis
+D:\cognitoTrack_Speech\data\control\Johnny Mathis\JohnnyMathis_3.wav,0,Johnny Mathis
+D:\cognitoTrack_Speech\data\control\Jon Voight\JonVoight_1.wav,0,Jon Voight
+D:\cognitoTrack_Speech\data\control\Jon Voight\JonVoight_2.wav,0,Jon Voight
+D:\cognitoTrack_Speech\data\control\Jon Voight\JonVoight_3.wav,0,Jon Voight
+D:\cognitoTrack_Speech\data\control\Judi Dench\Judi Dench_2.wav,0,Judi Dench
+D:\cognitoTrack_Speech\data\control\Judi Dench\Judi Dench_3.wav,0,Judi Dench
+D:\cognitoTrack_Speech\data\control\Karl Lagerfeld\KarlLagerfeld_2.wav,0,Karl Lagerfeld
+D:\cognitoTrack_Speech\data\control\Karl Lagerfeld\KarlLagerfeld_3.wav,0,Karl Lagerfeld
+D:\cognitoTrack_Speech\data\control\Kenny Rogers\KennyRogers_1.wav,0,Kenny Rogers
+D:\cognitoTrack_Speech\data\control\Kenny Rogers\KennyRogers_3.wav,0,Kenny Rogers
+D:\cognitoTrack_Speech\data\control\Kirk Douglas\Kirk Douglas_1.wav,0,Kirk Douglas
+D:\cognitoTrack_Speech\data\control\Kirk Douglas\Kirk Douglas_2.wav,0,Kirk Douglas
+D:\cognitoTrack_Speech\data\control\Kirk Douglas\Kirk Douglas_3.wav,0,Kirk Douglas
+D:\cognitoTrack_Speech\data\control\Lee Majors\LeeMajors_2.wav,0,Lee Majors
+D:\cognitoTrack_Speech\data\control\Lee Majors\LeeMajors_3.wav,0,Lee Majors
+D:\cognitoTrack_Speech\data\control\Linda Evans\LindaEvans_1.wav,0,Linda Evans
+D:\cognitoTrack_Speech\data\control\Linda Evans\LindaEvans_2.wav,0,Linda Evans
+D:\cognitoTrack_Speech\data\control\Linda Evans\LindaEvans_3.wav,0,Linda Evans
+D:\cognitoTrack_Speech\data\control\Line Renaud\LineRenaud_1.wav,0,Line Renaud
+D:\cognitoTrack_Speech\data\control\Line Renaud\LineRenaud_3.wav,0,Line Renaud
+D:\cognitoTrack_Speech\data\control\Martin Landau\MartinLandau_1.wav,0,Martin Landau
+D:\cognitoTrack_Speech\data\control\Martin Landau\MartinLandau_2.wav,0,Martin Landau
+D:\cognitoTrack_Speech\data\control\Martin Landau\MartinLandau_3.wav,0,Martin Landau
+D:\cognitoTrack_Speech\data\control\Martin Scorsese\MartinScorsese_1.wav,0,Martin Scorsese
+D:\cognitoTrack_Speech\data\control\Martin Scorsese\MartinScorsese_2.wav,0,Martin Scorsese
+D:\cognitoTrack_Speech\data\control\Martin Scorsese\MartinScorsese_3.wav,0,Martin Scorsese
+D:\cognitoTrack_Speech\data\control\Martin Sheen\MartinSheen_1.wav,0,Martin Sheen
+D:\cognitoTrack_Speech\data\control\Martin Sheen\MartinSheen_2.wav,0,Martin Sheen
+D:\cognitoTrack_Speech\data\control\Martin Sheen\MartinSheen_3.wav,0,Martin Sheen
+D:\cognitoTrack_Speech\data\control\Max von Sydow\MaxvonSydow_1.wav,0,Max von Sydow
+D:\cognitoTrack_Speech\data\control\Max von Sydow\MaxvonSydow_3.wav,0,Max von Sydow
+D:\cognitoTrack_Speech\data\control\Mel brooks\Mel brooks_1.wav,0,Mel brooks
+D:\cognitoTrack_Speech\data\control\Mel brooks\Mel brooks_2.wav,0,Mel brooks
+D:\cognitoTrack_Speech\data\control\Mel brooks\Mel brooks_3.wav,0,Mel brooks
+D:\cognitoTrack_Speech\data\control\Merle Haggard\MerleHaggard_1.wav,0,Merle Haggard
+D:\cognitoTrack_Speech\data\control\Merle Haggard\MerleHaggard_2.wav,0,Merle Haggard
+D:\cognitoTrack_Speech\data\control\Merle Haggard\MerleHaggard_3.wav,0,Merle Haggard
+D:\cognitoTrack_Speech\data\control\Michael Caine\Michael Caine_1.wav,0,Michael Caine
+D:\cognitoTrack_Speech\data\control\Michael Caine\Michael Caine_2.wav,0,Michael Caine
+D:\cognitoTrack_Speech\data\control\Michael Caine\Michael Caine_3.wav,0,Michael Caine
+D:\cognitoTrack_Speech\data\control\Michael Cimino\MichaelCimino_2.wav,0,Michael Cimino
+D:\cognitoTrack_Speech\data\control\Michael Dukakis\MichaelDukakis_1.wav,0,Michael Dukakis
+D:\cognitoTrack_Speech\data\control\Michael Dukakis\MichaelDukakis_3.wav,0,Michael Dukakis
+D:\cognitoTrack_Speech\data\control\Michael Gambon\MichaelGambon_2.wav,0,Michael Gambon
+D:\cognitoTrack_Speech\data\control\Michael Gambon\MichaelGambon_3.wav,0,Michael Gambon
+D:\cognitoTrack_Speech\data\control\Michel Piccoli\MichelPiccoli_1.wav,0,Michel Piccoli
+D:\cognitoTrack_Speech\data\control\Michel Piccoli\MichelPiccoli_2.wav,0,Michel Piccoli
+D:\cognitoTrack_Speech\data\control\Michel Piccoli\MichelPiccoli_3.wav,0,Michel Piccoli
+D:\cognitoTrack_Speech\data\control\Mick Jagger\MickJagger_1.wav,0,Mick Jagger
+D:\cognitoTrack_Speech\data\control\Mick Jagger\MickJagger_2.wav,0,Mick Jagger
+D:\cognitoTrack_Speech\data\control\Mick Jagger\MickJagger_3.wav,0,Mick Jagger
+D:\cognitoTrack_Speech\data\control\Milos Forman\MilosForman_1.wav,0,Milos Forman
+D:\cognitoTrack_Speech\data\control\Milos Forman\MilosForman_2.wav,0,Milos Forman
+D:\cognitoTrack_Speech\data\control\Milos Forman\MilosForman_3.wav,0,Milos Forman
+D:\cognitoTrack_Speech\data\control\Mireille Darc\MireilleDarc_2.wav,0,Mireille Darc
+D:\cognitoTrack_Speech\data\control\Mireille Darc\MireilleDarc_3.wav,0,Mireille Darc
+D:\cognitoTrack_Speech\data\control\Morgen Freeman\Morgen Freeman_1.wav,0,Morgen Freeman
+D:\cognitoTrack_Speech\data\control\Morgen Freeman\Morgen Freeman_2.wav,0,Morgen Freeman
+D:\cognitoTrack_Speech\data\control\Morgen Freeman\Morgen Freeman_3.wav,0,Morgen Freeman
+D:\cognitoTrack_Speech\data\control\Nana Mouskouri\NanaMouskouri_1.wav,0,Nana Mouskouri
+D:\cognitoTrack_Speech\data\control\Nana Mouskouri\NanaMouskouri_3.wav,0,Nana Mouskouri
+D:\cognitoTrack_Speech\data\control\Nick Nolte\NickNolte_1.wav,0,Nick Nolte
+D:\cognitoTrack_Speech\data\control\Nick Nolte\NickNolte_2.wav,0,Nick Nolte
+D:\cognitoTrack_Speech\data\control\Nick Nolte\NickNolte_3.wav,0,Nick Nolte
+D:\cognitoTrack_Speech\data\control\Patrick Stewart\Patrick Stewart_1.wav,0,Patrick Stewart
+D:\cognitoTrack_Speech\data\control\Patrick Stewart\Patrick Stewart_2.wav,0,Patrick Stewart
+D:\cognitoTrack_Speech\data\control\Patrick Stewart\Patrick Stewart_3.wav,0,Patrick Stewart
+D:\cognitoTrack_Speech\data\control\Paul Anka\PaulAnka_2.wav,0,Paul Anka
+D:\cognitoTrack_Speech\data\control\Paul Anka\PaulAnka_3.wav,0,Paul Anka
+D:\cognitoTrack_Speech\data\control\Paul McCartney\PaulMcCartney_1.wav,0,Paul McCartney
+D:\cognitoTrack_Speech\data\control\Paul McCartney\PaulMcCartney_2.wav,0,Paul McCartney
+D:\cognitoTrack_Speech\data\control\Paul McCartney\PaulMcCartney_3.wav,0,Paul McCartney
+D:\cognitoTrack_Speech\data\control\Paul Michael Glaser\PaulMichaelGlaser_1.wav,0,Paul Michael Glaser
+D:\cognitoTrack_Speech\data\control\Paul Michael Glaser\PaulMichaelGlaser_3.wav,0,Paul Michael Glaser
+D:\cognitoTrack_Speech\data\control\Paul Sorvino\PaulSorvino_2.wav,0,Paul Sorvino
+D:\cognitoTrack_Speech\data\control\Paul Sorvino\PaulSorvino_3.wav,0,Paul Sorvino
+D:\cognitoTrack_Speech\data\control\Paul Verhoeven\PaulVerhoeven_1.wav,0,Paul Verhoeven
+D:\cognitoTrack_Speech\data\control\Paul Verhoeven\PaulVerhoeven_3.wav,0,Paul Verhoeven
+D:\cognitoTrack_Speech\data\control\Pele\Pele_1.wav,0,Pele
+D:\cognitoTrack_Speech\data\control\Pele\Pele_2.wav,0,Pele
+D:\cognitoTrack_Speech\data\control\Pele\Pel‚_3.wav,0,Pele
+D:\cognitoTrack_Speech\data\control\Peter Fonda\PeterFonda_1.wav,0,Peter Fonda
+D:\cognitoTrack_Speech\data\control\Peter Fonda\PeterFonda_2.wav,0,Peter Fonda
+D:\cognitoTrack_Speech\data\control\Peter Fonda\PeterFonda_3.wav,0,Peter Fonda
+D:\cognitoTrack_Speech\data\control\Peter Lupus\PeterLupus_2.wav,0,Peter Lupus
+D:\cognitoTrack_Speech\data\control\Philip Glass\PhilipGlass_1.wav,0,Philip Glass
+D:\cognitoTrack_Speech\data\control\Philip Glass\PhilipGlass_2.wav,0,Philip Glass
+D:\cognitoTrack_Speech\data\control\Philip Glass\PhilipGlass_3.wav,0,Philip Glass
+D:\cognitoTrack_Speech\data\control\Prince Philip\Prince Philip_1.wav,0,Prince Philip
+D:\cognitoTrack_Speech\data\control\Prince Philip\Prince Philip_2.wav,0,Prince Philip
+D:\cognitoTrack_Speech\data\control\Prince Philip\Prince Philip_3.wav,0,Prince Philip
+D:\cognitoTrack_Speech\data\control\Queen Elisabeth\Queen Elisabeth_3.wav,0,Queen Elisabeth
+D:\cognitoTrack_Speech\data\control\Ralph Lauren\RalphLauren_2.wav,0,Ralph Lauren
+D:\cognitoTrack_Speech\data\control\Ralph Lauren\RalphLauren_3.wav,0,Ralph Lauren
+D:\cognitoTrack_Speech\data\control\Raquel Welch\RaquelWelch_1.wav,0,Raquel Welch
+D:\cognitoTrack_Speech\data\control\Raquel Welch\RaquelWelch_2.wav,0,Raquel Welch
+D:\cognitoTrack_Speech\data\control\Raquel Welch\RaquelWelch_3.wav,0,Raquel Welch
+D:\cognitoTrack_Speech\data\control\Richard Donner\RichardDonner_2.wav,0,Richard Donner
+D:\cognitoTrack_Speech\data\control\Richard Donner\RichardDonner_3.wav,0,Richard Donner
+D:\cognitoTrack_Speech\data\control\Ridley Scott\RidleyScott_1.wav,0,Ridley Scott
+D:\cognitoTrack_Speech\data\control\Ridley Scott\RidleyScott_2.wav,0,Ridley Scott
+D:\cognitoTrack_Speech\data\control\Ridley Scott\RidleyScott_3.wav,0,Ridley Scott
+D:\cognitoTrack_Speech\data\control\Robert De Niro\RobertDeNiro_1.wav,0,Robert De Niro
+D:\cognitoTrack_Speech\data\control\Robert De Niro\RobertDeNiro_2.wav,0,Robert De Niro
+D:\cognitoTrack_Speech\data\control\Robert De Niro\RobertDeNiro_3.wav,0,Robert De Niro
+D:\cognitoTrack_Speech\data\control\Robert Duvall\RobertDuvall_1.wav,0,Robert Duvall
+D:\cognitoTrack_Speech\data\control\Robert Duvall\RobertDuvall_2.wav,0,Robert Duvall
+D:\cognitoTrack_Speech\data\control\Robert Duvall\RobertDuvall_3.wav,0,Robert Duvall
+D:\cognitoTrack_Speech\data\control\Robert Vaughn\RobertVaughn_1.wav,0,Robert Vaughn
+D:\cognitoTrack_Speech\data\control\Robert Vaughn\RobertVaughn_2.wav,0,Robert Vaughn
+D:\cognitoTrack_Speech\data\control\Robert Vaughn\RobertVaughn_3.wav,0,Robert Vaughn
+D:\cognitoTrack_Speech\data\control\Robert Wagner\RobertWagner_2.wav,0,Robert Wagner
+D:\cognitoTrack_Speech\data\control\Robert Wagner\RobertWagner_3.wav,0,Robert Wagner
+D:\cognitoTrack_Speech\data\control\Roger Moore\RogerMoore_1.wav,0,Roger Moore
+D:\cognitoTrack_Speech\data\control\Roger Moore\RogerMoore_2.wav,0,Roger Moore
+D:\cognitoTrack_Speech\data\control\Roger Moore\RogerMoore_3.wav,0,Roger Moore
+D:\cognitoTrack_Speech\data\control\Roger Waters\RogerWaters_2.wav,0,Roger Waters
+D:\cognitoTrack_Speech\data\control\Roger Waters\RogerWaters_3.wav,0,Roger Waters
+D:\cognitoTrack_Speech\data\control\Rosalynn Carter\RosalynnCarter_1.wav,0,Rosalynn Carter
+D:\cognitoTrack_Speech\data\control\Rosalynn Carter\RosalynnCarter_2.wav,0,Rosalynn Carter
+D:\cognitoTrack_Speech\data\control\Rosalynn Carter\RosalynnCarter_3.wav,0,Rosalynn Carter
+D:\cognitoTrack_Speech\data\control\Rupert Murdoch\RupertMurdoch_1.wav,0,Rupert Murdoch
+D:\cognitoTrack_Speech\data\control\Rupert Murdoch\RupertMurdoch_2.wav,0,Rupert Murdoch
+D:\cognitoTrack_Speech\data\control\Rupert Murdoch\RupertMurdoch_3.wav,0,Rupert Murdoch
+D:\cognitoTrack_Speech\data\control\Sam Waterston\SamWaterston_1.wav,0,Sam Waterston
+D:\cognitoTrack_Speech\data\control\Sam Waterston\SamWaterston_3.wav,0,Sam Waterston
+D:\cognitoTrack_Speech\data\control\Sidney Poiter\sidney poiter_1.wav,0,Sidney Poiter
+D:\cognitoTrack_Speech\data\control\Sidney Poiter\sidney poiter_2.wav,0,Sidney Poiter
+D:\cognitoTrack_Speech\data\control\Sidney Poiter\sidney poiter_3.wav,0,Sidney Poiter
+D:\cognitoTrack_Speech\data\control\Sophia Loren\SophiaLoren_1.wav,0,Sophia Loren
+D:\cognitoTrack_Speech\data\control\Sophia Loren\SophiaLoren_2.wav,0,Sophia Loren
+D:\cognitoTrack_Speech\data\control\Stacy Keach\StacyKeach_1.wav,0,Stacy Keach
+D:\cognitoTrack_Speech\data\control\Stacy Keach\StacyKeach_2.wav,0,Stacy Keach
+D:\cognitoTrack_Speech\data\control\Stacy Keach\StacyKeach_3.wav,0,Stacy Keach
+D:\cognitoTrack_Speech\data\control\Stan Lee\Stan Lee_1.wav,0,Stan Lee
+D:\cognitoTrack_Speech\data\control\Stan Lee\Stan Lee_2.wav,0,Stan Lee
+D:\cognitoTrack_Speech\data\control\Stan Lee\Stan Lee_3.wav,0,Stan Lee
+D:\cognitoTrack_Speech\data\control\Steve Reich\SteveReich_2.wav,0,Steve Reich
+D:\cognitoTrack_Speech\data\control\Steve Reich\SteveReich_3.wav,0,Steve Reich
+D:\cognitoTrack_Speech\data\control\Terry Gilliam\TerryGilliam_1.wav,0,Terry Gilliam
+D:\cognitoTrack_Speech\data\control\Terry Gilliam\TerryGilliam_2.wav,0,Terry Gilliam
+D:\cognitoTrack_Speech\data\control\Terry Gilliam\TerryGilliam_3.wav,0,Terry Gilliam
+D:\cognitoTrack_Speech\data\control\Terry Riley\TerryRiley_2.wav,0,Terry Riley
+D:\cognitoTrack_Speech\data\control\Terry Riley\TerryRiley_3.wav,0,Terry Riley
+D:\cognitoTrack_Speech\data\control\Tina turner\Tinaturner_1.wav,0,Tina turner
+D:\cognitoTrack_Speech\data\control\Tina turner\Tinaturner_2.wav,0,Tina turner
+D:\cognitoTrack_Speech\data\control\Tina turner\Tinaturner_3.wav,0,Tina turner
+D:\cognitoTrack_Speech\data\control\Vangelis\Vangelis_3.wav,0,Vangelis
+D:\cognitoTrack_Speech\data\control\Walter Mondale\WalterMondale_3.wav,0,Walter Mondale
+D:\cognitoTrack_Speech\data\control\Warren Beatty\WarrenBeatty_3.wav,0,Warren Beatty
+D:\cognitoTrack_Speech\data\control\Warren Buffett\Warren Buffett_1.wav,0,Warren Buffett
+D:\cognitoTrack_Speech\data\control\Warren Buffett\Warren Buffett_2.wav,0,Warren Buffett
+D:\cognitoTrack_Speech\data\control\Warren Buffett\WarrenBuffett_3.wav,0,Warren Buffett
+D:\cognitoTrack_Speech\data\control\Werner Herzog\WernerHerzog_1.wav,0,Werner Herzog
+D:\cognitoTrack_Speech\data\control\William Shatner\WilliamShatner_1.wav,0,William Shatner
+D:\cognitoTrack_Speech\data\control\William Shatner\WilliamShatner_2.wav,0,William Shatner
+D:\cognitoTrack_Speech\data\control\William Shatner\WilliamShatner_3.wav,0,William Shatner
+D:\cognitoTrack_Speech\data\control\Yoko Ono\YokoOno_1.wav,0,Yoko Ono
+D:\cognitoTrack_Speech\data\control\Yoko Ono\YokoOno_2.wav,0,Yoko Ono
+D:\cognitoTrack_Speech\data\control\Yoko Ono\YokoOno_3.wav,0,Yoko Ono
+D:\cognitoTrack_Speech\data\dementia\Abe Burrows\AbeBurrows_5.wav,1,Abe Burrows
+D:\cognitoTrack_Speech\data\dementia\Aileen Hernandez\aileenhernandez_0.wav,1,Aileen Hernandez
+D:\cognitoTrack_Speech\data\dementia\Aileen Hernandez\aileenhernandez_5_1.wav,1,Aileen Hernandez
+D:\cognitoTrack_Speech\data\dementia\Aileen Hernandez\aileenhernandez_5_2.wav,1,Aileen Hernandez
+D:\cognitoTrack_Speech\data\dementia\Alan Ramsey\alanramsey_10.wav,1,Alan Ramsey
+D:\cognitoTrack_Speech\data\dementia\Allan Burns\AllanBurns_5.wav,1,Allan Burns
+D:\cognitoTrack_Speech\data\dementia\Andrew Sachs\andrewsachs_10.wav,1,Andrew Sachs
+D:\cognitoTrack_Speech\data\dementia\Andrew Sachs\andrewsachs_15.wav,1,Andrew Sachs
+D:\cognitoTrack_Speech\data\dementia\Annette Michelson\annettemichelson_15.wav,1,Annette Michelson
+D:\cognitoTrack_Speech\data\dementia\Antony Flew\antonyflew_10.wav,1,Antony Flew
+D:\cognitoTrack_Speech\data\dementia\Antony Flew\antonyflew_5_1.wav,1,Antony Flew
+D:\cognitoTrack_Speech\data\dementia\Antony Flew\antonyflew_5_2.wav,1,Antony Flew
+D:\cognitoTrack_Speech\data\dementia\B B King\bbking_0.wav,1,B B King
+D:\cognitoTrack_Speech\data\dementia\B B King\bbking_10.wav,1,B B King
+D:\cognitoTrack_Speech\data\dementia\B B King\bbking_15.wav,1,B B King
+D:\cognitoTrack_Speech\data\dementia\Barry Cohen\BarryCohen_5.wav,1,Barry Cohen
+D:\cognitoTrack_Speech\data\dementia\Ben Bradlee\BenBradlee_15.wav,1,Ben Bradlee
+D:\cognitoTrack_Speech\data\dementia\Ben Bradlee\BenBradlee_5.wav,1,Ben Bradlee
+D:\cognitoTrack_Speech\data\dementia\Bill Buckner\BillBuckner_10.wav,1,Bill Buckner
+D:\cognitoTrack_Speech\data\dementia\Bill Buckner\BillBuckner_15.wav,1,Bill Buckner
+D:\cognitoTrack_Speech\data\dementia\Bill Buckner\BillBuckner_5.wav,1,Bill Buckner
+D:\cognitoTrack_Speech\data\dementia\Bobby Womack\BobbyWomack_0.wav,1,Bobby Womack
+D:\cognitoTrack_Speech\data\dementia\Casey Kasem\CaseyKasem_15.wav,1,Casey Kasem
+D:\cognitoTrack_Speech\data\dementia\Casey Kasem\CaseyKasem_5.wav,1,Casey Kasem
+D:\cognitoTrack_Speech\data\dementia\Charles Bronson\CharlesBronson_10.wav,1,Charles Bronson
+D:\cognitoTrack_Speech\data\dementia\Charles Bronson\CharlesBronson_15.wav,1,Charles Bronson
+D:\cognitoTrack_Speech\data\dementia\Charles K Kao\CharlesKKao_0.wav,1,Charles K Kao
+D:\cognitoTrack_Speech\data\dementia\Charmian Carr\CharmianCarr_15.wav,1,Charmian Carr
+D:\cognitoTrack_Speech\data\dementia\Charmian Carr\CharmianCarr_5.wav,1,Charmian Carr
+D:\cognitoTrack_Speech\data\dementia\Dan Ingram\daningram_15.wav,1,Dan Ingram
+D:\cognitoTrack_Speech\data\dementia\David Milch\DavidMilch_10.wav,1,David Milch
+D:\cognitoTrack_Speech\data\dementia\David Milch\DavidMilch_15.wav,1,David Milch
+D:\cognitoTrack_Speech\data\dementia\David Prowse\DavidProwse_0.wav,1,David Prowse
+D:\cognitoTrack_Speech\data\dementia\David Prowse\DavidProwse_10.wav,1,David Prowse
+D:\cognitoTrack_Speech\data\dementia\David Prowse\DavidProwse_5.wav,1,David Prowse
+D:\cognitoTrack_Speech\data\dementia\Dennis Moore\DennisMoore_5.wav,1,Dennis Moore
+D:\cognitoTrack_Speech\data\dementia\Don Lane\DonLane_0.wav,1,Don Lane
+D:\cognitoTrack_Speech\data\dementia\Donald Sterling\DonaldSterling_5.wav,1,Donald Sterling
+D:\cognitoTrack_Speech\data\dementia\Emile Griffith\emilegriffith_5.wav,1,Emile Griffith
+D:\cognitoTrack_Speech\data\dementia\Ernie Sigley\ErnieSigley_15.wav,1,Ernie Sigley
+D:\cognitoTrack_Speech\data\dementia\Estelle Getty\EstelleGetty_15.wav,1,Estelle Getty
+D:\cognitoTrack_Speech\data\dementia\Evelyn Keyes\EvelynKeyes_0.wav,1,Evelyn Keyes
+D:\cognitoTrack_Speech\data\dementia\Evelyn Keyes\EvelynKeyes_10.wav,1,Evelyn Keyes
+D:\cognitoTrack_Speech\data\dementia\Gale Sayers\galesayers_0.wav,1,Gale Sayers
+D:\cognitoTrack_Speech\data\dementia\Gale Sayers\galesayers_5_1.wav,1,Gale Sayers
+D:\cognitoTrack_Speech\data\dementia\Gale Sayers\galesayers_5_2.wav,1,Gale Sayers
+D:\cognitoTrack_Speech\data\dementia\George Klein\georgeklein_5_1.wav,1,George Klein
+D:\cognitoTrack_Speech\data\dementia\George Klein\georgeklein_5_2.wav,1,George Klein
+D:\cognitoTrack_Speech\data\dementia\George Klein\georgeklein_5_3.wav,1,George Klein
+D:\cognitoTrack_Speech\data\dementia\George Robb\georgerobb_10.wav,1,George Robb
+D:\cognitoTrack_Speech\data\dementia\Greg Fingers Taylor\GregFingersTaylor_10.wav,1,Greg Fingers Taylor
+D:\cognitoTrack_Speech\data\dementia\Ian Holm\IanHolm_2.wav,1,Ian Holm
+D:\cognitoTrack_Speech\data\dementia\Ian McCaskill\ianmccaskill_15.wav,1,Ian McCaskill
+D:\cognitoTrack_Speech\data\dementia\Iris Murdoch\IrisMurdoch_10.wav,1,Iris Murdoch
+D:\cognitoTrack_Speech\data\dementia\Iris Murdoch\IrisMurdoch_5.wav,1,Iris Murdoch
+D:\cognitoTrack_Speech\data\dementia\Jack Hanna\JackHanna_10.wav,1,Jack Hanna
+D:\cognitoTrack_Speech\data\dementia\Jack Hanna\JackHanna_15.wav,1,Jack Hanna
+D:\cognitoTrack_Speech\data\dementia\Jack Webster\JackWebster_10.wav,1,Jack Webster
+D:\cognitoTrack_Speech\data\dementia\Jack Webster\JackWebster_5.wav,1,Jack Webster
+D:\cognitoTrack_Speech\data\dementia\James Stewart\JamesStewart_5.wav,1,James Stewart
+D:\cognitoTrack_Speech\data\dementia\Jeanne Little\JeanneLittle_10.wav,1,Jeanne Little
+D:\cognitoTrack_Speech\data\dementia\Jesse Helms\jessehelms_0.wav,1,Jesse Helms
+D:\cognitoTrack_Speech\data\dementia\Jesse Helms\jessehelms_5_1.wav,1,Jesse Helms
+D:\cognitoTrack_Speech\data\dementia\Jesse Helms\jessehelms_5_2.wav,1,Jesse Helms
+D:\cognitoTrack_Speech\data\dementia\Jessejackson\Jessejackson_0.wav,1,Jessejackson
+D:\cognitoTrack_Speech\data\dementia\Jim McLean\jimmclean_10.wav,1,Jim McLean
+D:\cognitoTrack_Speech\data\dementia\Jim Neidhart\JimNeidhart_0.wav,1,Jim Neidhart
+D:\cognitoTrack_Speech\data\dementia\Jim Neidhart\JimNeidhart_10.wav,1,Jim Neidhart
+D:\cognitoTrack_Speech\data\dementia\Jim Neidhart\JimNeidhart_15.wav,1,Jim Neidhart
+D:\cognitoTrack_Speech\data\dementia\Jimmy Calderwood\JimmyCalderwood_5.wav,1,Jimmy Calderwood
+D:\cognitoTrack_Speech\data\dementia\Jimmy Fratianno\JimmyFratianno_0.wav,1,Jimmy Fratianno
+D:\cognitoTrack_Speech\data\dementia\Joe Conley\JoeConley_0.wav,1,Joe Conley
+D:\cognitoTrack_Speech\data\dementia\John Mackey\johnmackey_15_1.wav,1,John Mackey
+D:\cognitoTrack_Speech\data\dementia\John Mackey\johnmackey_15_2.wav,1,John Mackey
+D:\cognitoTrack_Speech\data\dementia\Jonathan Miller\JonathanMiller_5.wav,1,Jonathan Miller
+D:\cognitoTrack_Speech\data\dementia\Leon Redbone\leonredbone_15.wav,1,Leon Redbone
+D:\cognitoTrack_Speech\data\dementia\Lerone Bennett Jr\LeroneBennettJr_10.wav,1,Lerone Bennett Jr
+D:\cognitoTrack_Speech\data\dementia\Maureen Forrester\maureenforrester_5.wav,1,Maureen Forrester
+D:\cognitoTrack_Speech\data\dementia\Maurice Hinchey\mauricehinchey_0_1.wav,1,Maurice Hinchey
+D:\cognitoTrack_Speech\data\dementia\Maurice Hinchey\mauricehinchey_0_2.wav,1,Maurice Hinchey
+D:\cognitoTrack_Speech\data\dementia\Maurice Hinchey\mauricehinchey_5.wav,1,Maurice Hinchey
+D:\cognitoTrack_Speech\data\dementia\Omar Sharif\OmarSharif_0.wav,1,Omar Sharif
+D:\cognitoTrack_Speech\data\dementia\Omar Sharif\OmarSharif_10.wav,1,Omar Sharif
+D:\cognitoTrack_Speech\data\dementia\Otis Chandler\OtisChandler_5.wav,1,Otis Chandler
+D:\cognitoTrack_Speech\data\dementia\Pat Pariseau\patpariseau_10_1.wav,1,Pat Pariseau
+D:\cognitoTrack_Speech\data\dementia\Pat Pariseau\patpariseau_10_2.wav,1,Pat Pariseau
+D:\cognitoTrack_Speech\data\dementia\Paul Hornung\paulhornung_0.wav,1,Paul Hornung
+D:\cognitoTrack_Speech\data\dementia\Paul Hornung\paulhornung_10.wav,1,Paul Hornung
+D:\cognitoTrack_Speech\data\dementia\Pauline Phillips\PaulinePhillips_10.wav,1,Pauline Phillips
+D:\cognitoTrack_Speech\data\dementia\Peter Falk\PeterFalk_10.wav,1,Peter Falk
+D:\cognitoTrack_Speech\data\dementia\Peter Falk\PeterFalk_15.wav,1,Peter Falk
+D:\cognitoTrack_Speech\data\dementia\Peter Max\PeterMax_10.wav,1,Peter Max
+D:\cognitoTrack_Speech\data\dementia\Peter Max\PeterMax_15.wav,1,Peter Max
+D:\cognitoTrack_Speech\data\dementia\Peter Reveen\peterreveen_15.wav,1,Peter Reveen
+D:\cognitoTrack_Speech\data\dementia\Ralph Klein\ralphklein_5_1.wav,1,Ralph Klein
+D:\cognitoTrack_Speech\data\dementia\Ralph Klein\ralphklein_5_2.wav,1,Ralph Klein
+D:\cognitoTrack_Speech\data\dementia\Ray Dolby\RayDolby_0.wav,1,Ray Dolby
+D:\cognitoTrack_Speech\data\dementia\Ray Dolby\RayDolby_10.wav,1,Ray Dolby
+D:\cognitoTrack_Speech\data\dementia\Ray Galton\RayGalton_5.wav,1,Ray Galton
+D:\cognitoTrack_Speech\data\dementia\Richard Gwyn\RichardGwyn_0.wav,1,Richard Gwyn
+D:\cognitoTrack_Speech\data\dementia\Richard Gwyn\RichardGwyn_5.wav,1,Richard Gwyn
+D:\cognitoTrack_Speech\data\dementia\Robert Anderson\RobertAnderson_10.wav,1,Robert Anderson
+D:\cognitoTrack_Speech\data\dementia\Robin Williams\RobinWilliams_0.wav,1,Robin Williams
+D:\cognitoTrack_Speech\data\dementia\Ronald Reagan\RonaldReagan_10.wav,1,Ronald Reagan
+D:\cognitoTrack_Speech\data\dementia\Ronald Reagan\RonaldReagan_5.wav,1,Ronald Reagan
+D:\cognitoTrack_Speech\data\dementia\Ronan O_Rahilly\ronano_rahilly_15_1.wav,1,Ronan O_Rahilly
+D:\cognitoTrack_Speech\data\dementia\Ronan O_Rahilly\ronano_rahilly_15_2.wav,1,Ronan O_Rahilly
+D:\cognitoTrack_Speech\data\dementia\Ross Mac Donald\RossMacDonald_10.wav,1,Ross Mac Donald
+D:\cognitoTrack_Speech\data\dementia\Sparky Anderson\SparkyAnderson_0.wav,1,Sparky Anderson
+D:\cognitoTrack_Speech\data\dementia\Stan Bowles\StanBowles_5.wav,1,Stan Bowles
+D:\cognitoTrack_Speech\data\dementia\Stella Stevens\StellaStevens_15.wav,1,Stella Stevens
+D:\cognitoTrack_Speech\data\dementia\Steve Lawrence\SteveLawrence_15.wav,1,Steve Lawrence
+D:\cognitoTrack_Speech\data\dementia\Ted Turner\TedTurner_0.wav,1,Ted Turner
+D:\cognitoTrack_Speech\data\dementia\Ted Turner\TedTurner_5.wav,1,Ted Turner
+D:\cognitoTrack_Speech\data\dementia\Teresa Gorman\TeresaGorman_10.wav,1,Teresa Gorman
+D:\cognitoTrack_Speech\data\dementia\Terry Jones\terryjones_5.wav,1,Terry Jones
+D:\cognitoTrack_Speech\data\dementia\Terry Pratchett\TerryPratchett_0.wav,1,Terry Pratchett
+D:\cognitoTrack_Speech\data\dementia\Terry Pratchett\TerryPratchett_5.wav,1,Terry Pratchett
+D:\cognitoTrack_Speech\data\dementia\Thomas Dorsey\thomasdorsey_0.wav,1,Thomas Dorsey
+D:\cognitoTrack_Speech\data\dementia\Tim Conway\TimConway_10.wav,1,Tim Conway
+D:\cognitoTrack_Speech\data\dementia\Tim Conway\TimConway_5.wav,1,Tim Conway
+D:\cognitoTrack_Speech\data\dementia\Tony Bennett\TonyBennett_0.wav,1,Tony Bennett
+D:\cognitoTrack_Speech\data\dementia\Tony Bennett\TonyBennett_15.wav,1,Tony Bennett
+D:\cognitoTrack_Speech\data\dementia\Tony Parkes\TonyParkes_10.wav,1,Tony Parkes
+D:\cognitoTrack_Speech\data\dementia\Tony Parkes\TonyParkes_5.wav,1,Tony Parkes
+D:\cognitoTrack_Speech\data\dementia\Trevor Peacock\TrevorPeacock_5.wav,1,Trevor Peacock
+D:\cognitoTrack_Speech\data\dementia\Unita Blackwell\UnitaBlackwell_15.wav,1,Unita Blackwell
+D:\cognitoTrack_Speech\data\dementia\Vampiro\Vampiro_0.wav,1,Vampiro
+D:\cognitoTrack_Speech\data\dementia\Vampiro\Vampiro_5.wav,1,Vampiro
+D:\cognitoTrack_Speech\data\dementia\Viv Nicholson\vivnicholson_5.wav,1,Viv Nicholson
+D:\cognitoTrack_Speech\data\dementia\Woody Durham\woodydurham_0_2.wav,1,Woody Durham
